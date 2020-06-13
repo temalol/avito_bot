@@ -1,6 +1,7 @@
 #!/bin/bash
 
-cd /Users/artem/redmi_samara
+
+dir=""
 
 sh mobileparse.sh
 
